@@ -8,9 +8,9 @@
 
     "authors": [
         {
-            "name": "Isac",
-            "email": "dev@adrianorosa.com",
-            "homepage": "http://adrianorosa.com"
+            "name": "Isac Canedo",
+            "email": "isac@example.com.br",
+            "homepage": "http://example.com"
         }
     ],
     "require": {
