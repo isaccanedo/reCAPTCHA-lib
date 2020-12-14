@@ -2,13 +2,13 @@
     "name": "recaptcha-lib/recaptcha",
     "description": "PHP Library for reCAPTCHA Google's API",
     "keywords": ["captcha","recaptcha", "recapcha-lib"],
-    "homepage": "https://github.com/adrianorsouza/reCAPTCHA-lib",
+    "homepage": "https://github.com/isaccanedo/reCAPTCHA-lib",
 
     "license": "MIT",
 
     "authors": [
         {
-            "name": "Adriano Rosa",
+            "name": "Isac",
             "email": "dev@adrianorosa.com",
             "homepage": "http://adrianorosa.com"
         }
